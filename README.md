@@ -1,16 +1,18 @@
 # gitsandbox
-A little testbed for showing how git works
+## A little testbed for showing how git works
 
-Hello world
+* Hello world
 
-We are in DMInnovation.
+* We are in DMInnovation.
 
-This is another sentence.
+* This is another sentence.
 
-And another two.
+* And another two.
 
-This is my first sentence.
+* This is my first sentence.
 
+```
 And now for something completely different.
+```
 
 Libby Metz
